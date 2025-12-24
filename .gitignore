@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/simple-client-app/FormsFrameworkClientApp/.vs/FormsFrameworkClientApp
+/simple-client-app/FormsFrameworkClientApp/bin/Debug
+/simple-client-app/FormsFrameworkClientApp/obj/Debug
+/simple-server-app/FormsFrameworkClientApp/bin/Debug
+/simple-server-app/FormsFrameworkClientApp/.vs/FormsFrameworkClientApp
+/simple-server-app/FormsFrameworkClientApp/obj/Debug
