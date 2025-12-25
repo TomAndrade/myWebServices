@@ -9,3 +9,6 @@
 /simple-server-app/FormsFrameworkClientApp/bin/Debug
 /simple-server-app/FormsFrameworkClientApp/.vs/FormsFrameworkClientApp
 /simple-server-app/FormsFrameworkClientApp/obj/Debug
+/simple-client-app/FormsClientApp/bin/Debug/net8.0-windows
+/simple-client-app/FormsClientApp/.vs/FormsClientApp
+/simple-client-app/FormsClientApp/obj
