@@ -1,0 +1,5 @@
+Update 0.3 - Server is completed.
+
+Update 0.2 - Service reference added.
+
+Version 0.1 - Initial changes.
