@@ -12,3 +12,6 @@
 /simple-client-app/FormsClientApp/bin/Debug/net8.0-windows
 /simple-client-app/FormsClientApp/.vs/FormsClientApp
 /simple-client-app/FormsClientApp/obj
+/simple-local-server-ip-based/ConsoleSimpleIpBasedServer/obj/Debug
+/simple-local-server-ip-based/ConsoleSimpleIpBasedServer/bin/Debug
+/simple-local-server-ip-based/ConsoleSimpleIpBasedServer/.vs/ConsoleSimpleIpBasedServer
